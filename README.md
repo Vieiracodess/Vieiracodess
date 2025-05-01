@@ -28,4 +28,5 @@ Me chamo Cauã Vieira, tenho 20 anos e sou natural da Bahia. Concluí o ensino m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vieiracodess&theme=dark&locale=pt-br)]
 
-![Snake animatiom] (https://github.com/Vieiracodess)
+
+
